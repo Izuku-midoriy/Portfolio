@@ -1,2 +1,4 @@
 # Portfolio
-VITA Assignment
+Name - Kunal Bhoir
+Skills - java, python, Cybersecurity
+Links - LinkedIn
